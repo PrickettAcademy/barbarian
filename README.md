@@ -9,11 +9,4 @@ This is a simple phone app that allows users to create **DnD characters** and ke
 
 ### Deploy
 
-```java
-if (x == 3) 
-{
-    // do something
-}
-```
-
 
