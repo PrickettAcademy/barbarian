@@ -1,2 +1,19 @@
 # barbarian
-Matt's DnD phone app
+This is a simple phone app that allows users to create **DnD characters** and keep track of their skills and inventory.
+
+## Contribute
+
+### Build
+
+### Test
+
+### Deploy
+
+```java
+if (x == 3) 
+{
+    // do something
+}
+```
+
+
